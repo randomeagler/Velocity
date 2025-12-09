@@ -77,7 +77,7 @@ enable-player-address-logging = true
 [servers]
 # Configure your servers here. Each key represents the server's name, and the value
 # represents the IP address of the server to connect to.
-lobby = "46.224.68.68:58755"
+lobby = "b40541a7-20c3-45c7-ab25-3e00924e4771-00-14kpjug5iphiv.kirk.replit.dev:3002"
 factions = "127.0.0.1:30067"
 minigames = "127.0.0.1:30068"
 
